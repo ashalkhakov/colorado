@@ -1,5 +1,8 @@
 # Colorado
 
+
+[![Build Status](https://travis-ci.org/ashalkhakov/colorado.svg?branch=master)](https://travis-ci.org/ashalkhakov/colorado)
+
 This is a library for doing colored printing in a terminal.
 
 ## Use
